@@ -1,11 +1,13 @@
-remote_theme: "dracula/gh-pages"
-
-title: CFC #public-transport
-description: A special interest group (SIG) of the Comic Fiesta Community Discord server
+title: CFC &#35;public-transport
+description: A special interest group of the Comic Fiesta Community Discord server
+lang: en
 
 show_downloads: false
 show_header: false
 
-icon: /img/cfcpt-square.png
+icon: /assets/images/cfcpt-square.png
 colorspace: pink
 
+github:
+  owner_name: CFC &#35;public-transport
+  owner_url: https://github.com/CFCPT

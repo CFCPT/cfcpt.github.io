@@ -1,10 +1,11 @@
 ---
 layout: default
+title: CFC &#35;public-transport
+description: A special interest group of the Comic Fiesta Community Discord server
+icon: /assets/images/cfcpt-square.png
+image: /assets/images/cfcpt-square.png
+colorspace: pink
 ---
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## [](#header-2)Header 2
 
